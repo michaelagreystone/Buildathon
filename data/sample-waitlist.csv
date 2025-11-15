@@ -1,0 +1,22 @@
+id,name,age,meld_score,blood_type,diagnosis,comorbidities,life_expectancy_months
+1,Michael Johnson,67,32,O,Acute liver failure,diabetes,2
+2,Sarah Williams,72,28,A,End-stage liver disease,heart disease,4
+3,Robert Martinez,65,30,B,Alcoholic cirrhosis,diabetes,3
+4,Emily Davis,69,25,AB,Hepatitis C cirrhosis,kidney disease,6
+5,James Brown,71,29,O,Liver cancer,diabetes,3
+6,Linda Wilson,68,27,A,Primary biliary cirrhosis,heart disease,5
+7,David Lee,66,31,B,Fulminant hepatic failure,diabetes,2
+8,Maria Garcia,70,26,O,Non-alcoholic steatohepatitis,kidney disease,7
+9,John Smith,64,33,A,Acute liver failure,heart disease,1
+10,Patricia Taylor,73,24,AB,End-stage liver disease,diabetes,8
+11,Richard Anderson,67,30,O,Hepatitis B cirrhosis,heart disease,3
+12,Jennifer Thomas,69,28,B,Alcoholic cirrhosis,diabetes,4
+13,Charles Jackson,71,26,A,Liver cancer,kidney disease,6
+14,Elizabeth White,68,29,O,Primary biliary cirrhosis,diabetes,5
+15,Joseph Harris,66,32,B,Fulminant hepatic failure,heart disease,2
+16,Margaret Martin,72,25,AB,Non-alcoholic steatohepatitis,diabetes,7
+17,Thomas Thompson,65,31,O,Acute liver failure,kidney disease,3
+18,Dorothy Garcia,70,27,A,End-stage liver disease,heart disease,5
+19,Christopher Martinez,68,29,B,Hepatitis C cirrhosis,diabetes,4
+20,Betty Robinson,69,28,O,Alcoholic cirrhosis,heart disease,4
+
